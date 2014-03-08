@@ -1,19 +1,21 @@
-What follows is a review of Encountering the new Testament by Walter A. Elwell and Robert W. Yarbrough. This review is for the 20-something student that has just entered bible college in the 21st century. Many issues surround these students in their day to day study life, so interaction with this book can be key to understanding more about the New Testament. This review will give an overview of the textbook with what it has to offer the bible college student, a detailed look at how the textbook is presented to make the New Testament less daunting, a look at the strengths and weakness that are present in this textbook compared to what a bible college student may be after, and finally an assessment of the book's place amongst other textbooks in the field.
+What follows is a review of the book Encountering the New Testament: A Historical and Theological Survey, 3rd Edition 2013, by Walter A. Elwell and Robert W. Yarbrough. 
 
-Picking up a bible for the first time can be daunting. With so many pages full of content that has context to the Middle Eastern and Roman history from 2000 years ago and more. Having a book that can walk with you to provide historical and theological understand to the words of the bible is essential to understanding what has been written in the bible. That is the focus of Elwell and Yarbrough's textbook Encountering the New Testament. When introducing the book to Students, the book writes that the purpose of this textbook is to make the encounter of the New Testament a little less daunting. The authors understand that encountering the New Testament is daunting, and through this textbook, their belief is that having an understand of the Greco-Roman world of Jesus's and Paul's day will make it easier. 
+This review is aimed at a 20-something first year bible college student in the 21st century. As a 20-something bible college student myself, I know first hand some of the issues that are faced. The main issue is setting off on this journey of understanding, and adventuring into the New Testament can appear quite daunting. 
 
-Each chapter looks long, so being a textbook, the assumption maybe that each page is full of two columns of text, giving dry context to the New Testament. This isn't the case, with  pages in the book comprising of content, with additional material throughout each chapter to engage the reader. The authors uses: 
-* Chapter outlines, which provide a roadmap for the chapter,
-* Chapter objectives, which gives the reader with an understanding how what they will be able to perform upon completing the chapter,
-* Sidebars, which provide a relationship between what the New Testament and contemporary issues currently faced,
-* Focus boxes, which add interesting and relevant application or devotional material,
-* Summay,
-* Key terms and glossary,
-* Key people and places,
-* Study Questions,
-* Further reading, and
-* Visual aids, .
-The authors have laid out the chapters in such a way the if a reader were to become distracted through there reading, they could still be engaged in the textbook through other means throughout the chapter.
+This review will give:
+* an overview of the textbook
+* a detailed look at how the textbook is presented
+* a look at the strengths and weaknesses that are present in this textbook, and
+* an assessment of the book's place amongst other textbooks
+
+As a student, Encountering the New Testament provides an overview of the entire New Testament. What it provides is as follows:
+* A detailed survey of each book within the New Testament, Gospels, Acts, Epistles and Revelations, to provide information for who wrote it, when it was written, who it was written for, key themes that can be encountered in the book, and critical issues that have been or are currently being debated in regards to the book.
+* A detailed look at why we should study the New Testament and how others throughout the last 2000 years have looked to interpret and understand the New Testament in the light of their generational thinking. For example, the textbook surveys the way in which the Enlightment period changed the way in which we interpret the New Testament, especially around who Jesus was and what he said.
+* Finally, there is detailed information around the period in which the New Testament books where written and the state in which they were being written. For example, the second chapter surveys the Middle East around the days of Jesus and introduces us to the political atmosphere of Israel at that particular time.
+Dr. Keith Essex writes this about the 2nd edition of the textbook in comparison to the 1st, "the textbook continues to be  pedagogically sound, visually oriented, with a good introduction to the historical background of the NT and a satisfactory discussion of the purpose, structure, and major themes of each NT book."1 The 3rd edition continues these themes of introducing the New Testament to a first year bible college student.
+
+Each chapter may appear long, but this is not the case. Chapters are not full of pages with just text, rather they are filled with varying amounts of content in different formats. Each chapter begins with an outline and objective to give clear guidelines for what is ahead in the chapter. The contents of each chapter is supplemented with sidebars, focus boxes, and visual aids, such as photos and maps, that provide additional information. Finally, each chapter finishes with key terms, places and people that are referenced throughout the chapter, a summary of the chapter, further readings, and study questions. These learning aids, as the authors call them, are to make the journey of encountering the New Testament through this textbook a "little less daunting". 
+
 
 One weakness which I have mentioned in passing earlier is the dryness of the book. In recounting the historical and theological aspects of the New Testament, the authors haven't 
 A book review website called Goodreads shows us the point of view that some 20-somethings have on this textbook. "This book put me to sleep on a couple of occasions" - Snorkle. There is a dryness to the textbook which in understanding that we are dealing with historical and theological information needs to be understood. The authors do put in effort to continue drawing the reader back into the book through additional material through each chapter, however, the core content will appear dry. 
@@ -28,3 +30,5 @@ Another book in the same category as Encountering the New Testament is An Introd
 I feel less intimidated by Encountering the New Testament, which makes me want to interact with it me.
 
 Encountering the New Testament gives a first year bible college student a great introduction to the New Testament that doesn't at face value appear intimidating like other books in it's category. It provides a wealth of information, which at times is dry, but there is enough of a variety of content through sidebars, written and visual aids, further readings and questions that keep readers draw in. As a first year bible college student myself, I recommend this book to other students studying the New Testament for the first time to gain contextual understanding of the New Testament during the Greco-Roman period and for how it can relate at the start of the 21st century.
+
+1 http://www.tms.edu/JournalBookReview.aspx?ID=547
